@@ -1,2 +1,2 @@
-server:
-  port: 5423
+config:
+  info: main brance,springcloud-config/config/dev.yml version=1
